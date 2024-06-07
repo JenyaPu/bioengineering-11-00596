@@ -1,0 +1,8 @@
+numpy~=1.26.4
+pandas~=2.2.2
+scipy~=1.13.1
+neurokit2~=0.2.9
+pingouin~=0.5.4
+matplotlib~=3.9.0
+statsmodels~=0.14.2
+PyWavelets~=1.6.0
